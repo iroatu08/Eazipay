@@ -1,7 +1,7 @@
 <template>
   <footer class="xl:px-[100px] w-full py-[64px] flex items-start flex-col-reverse lg:flex-row px-[16px] gap-[64px] lg:gap-[125px]  border-t border-[#EAEAEA]">
 
-    <div class="company-info  flex flex-col gap-[40px] w-full items-center justify-center lg:w-[278px]">
+    <div class="company-info  flex flex-col gap-[40px] w-full lg:items-start items-center  lg:w-[278px]">
         <div>
             <img :src="Logo" alt="" srcset="">
         </div>
