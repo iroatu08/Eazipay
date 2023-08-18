@@ -19,7 +19,7 @@
         </div>
 
 
-        <div class="btns hidden items-center gap-[24px] font-aeonik  lg:flex ">
+        <div class="btns ml-auto hidden items-center gap-[24px] font-aeonik  lg:flex ">
             <button class=" w-[168px] text-[14px] leading-[20px] border border-primary rounded-[24px] px-[32px] py-[10px]">
                 Log in
             </button>
