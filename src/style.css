@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@font-face {
+  font-family: "Aeonik";
+  src: url("../fonts/Aeonik/AeonikTRIAL-Regular.otf") format("opentype");
+}
+
+
+@font-face {
+  font-family: "Aeonik";
+  font-weight: 300;
+  src: url("../fonts/Aeonik/AeonikTRIAL-Light") format("opentype");
+}
+
+@font-face {
+  font-family: "Aeonik";
+  font-weight: bold;
+  src: url("../fonts/Aeonik/AeonikTRIAL-Bold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "MADE Mellow";
+  src: url("../fonts/made_mellow/MADEMellowPERSONALUSE-Regular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "MADE Mellow";
+  font-weight:bold ;
+  src: url("../fonts/made_mellow/MADEMellowPERSONALUSE-Bold.otf") format("opentype");
+}
+
+
+.gradient-bg{
+  background-image: url('././assets/gradients.png');
+  background-position: center;
+  background-repeat:no-repeat;
+}
