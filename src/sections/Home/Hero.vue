@@ -1,5 +1,5 @@
 <template>
-<section class="py-[50px] mb-20">
+<section class="pt-[25px] lg:py-[50px] mb-20">
     <div class="hero-section my-[35px] xl:pl-[100px] gap-[64px] lg:pl-[151px]  flex lg:flex-row flex-col items-start">
         <div class="flex flex-col gap-[72px]  px-[16px]  left-side-content   lg:w-[500px]">
             <div class="flex flex-col gap-[24px] text-center lg:text-left">
