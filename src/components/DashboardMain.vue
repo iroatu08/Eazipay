@@ -217,7 +217,7 @@
 
         </div>
 
-        <div class="filter-results px-[16px] lg:px-[24px] overflow-y-auto h-[752px] bg-[#f5f5f6] rounded-[20px] mb-28">
+        <div class="filter-results px-[16px] lg:px-[24px] overflow-y-auto h-[752px] bg-[#f5f5f6] rounded-[20px] pb-28 mb-28">
           <div class="pt-[32px] space-y-[12px]">
             <h1 class="text-[18px] leading-[24px] font-aeonik pb-[24px]">Wednesday, November 09, 2022</h1>
 
